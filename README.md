@@ -10,4 +10,4 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 ### Headers
 
-<a href="https://mobirise.com/extensions/mobiriseamp/headers.html"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/headers-1200x800.png></a>
+<a href="https://mobirise.com/extensions/mobiriseamp/headers.html"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/headers-1200x800.png"></a>
