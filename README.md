@@ -5,6 +5,8 @@
 The Accelerated Mobile Pages Project (AMP) is an online publishing format, originally created by Google as an alternative to Facebook’s Instant Articles. It’s a way to optimize web pages for mobile browsing using a special code–AMP-HTML.
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg></a>
+  
+## AMP Components
 
 ### AMP Header
 
