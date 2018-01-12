@@ -66,12 +66,12 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/amp-landing-page-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/landing-page-1000x1200.jpg"></a>
 
-### AMP Themes
+## AMP Themes
 
-## Mobirise AMP
+### Mobirise AMP
 
 <a href="https://mobirise.com/extensions/mobiriseamp/"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/amp-2048x707.jpg"></a>
 
-## Black AMP
+### Black AMP
 
 <a href="https://mobirise.com/extensions/blackamp/"><img src="https://mobirise.com/extensions/blackamp/assets/images/slozhnaa-2000x701.jpg"></a>
