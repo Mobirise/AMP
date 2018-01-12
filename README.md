@@ -1,4 +1,4 @@
-# Mobirise AMP
+# Mobirise AMP Website Builder
 
 ### Accelerate your site with Google AMP
 
@@ -6,8 +6,35 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-themes-blocks-3000x1206.jpg></a>
 
-<img src="https://mobirise.com/extensions/mobiriseamp/assets/images/amp-2048x707.jpg">
+### AMP Header
 
-### Headers
+<a href="https://mobirise.com/amp-website-builder/amp-header.html"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/headers-1200x800.png"></a>
 
-<a href="https://mobirise.com/extensions/mobiriseamp/headers.html"><img src="https://mobirise.com/extensions/mobiriseamp/assets/images/headers-1200x800.png"></a>
+### AMP Menu
+
+<a href="https://mobirise.com/amp-website-builder/amp-menu.html"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-menu-800x1200.jpg"></a>
+
+### AMP Footer
+
+<a href="https://mobirise.com/amp-website-builder/amp-footer.html"><img src="https://mobirise.com/amp-website-builder/assets/images/footer-800x1200.jpg"></a>
+
+### AMP Map
+
+<a href="https://mobirise.com/amp-website-builder/amp-map.html"><img src="https://mobirise.com/amp-website-builder/assets/images/map-800x1200.jpg"></a>
+
+### AMP Video
+
+<a href="https://mobirise.com/amp-website-builder/amp-video.html"><img src="https://mobirise.com/amp-website-builder/assets/images/video-800x1200.jpg"></a>
+
+### AMP Image
+
+<a href="https://mobirise.com/amp-website-builder/amp-image.html"><img src="https://mobirise.com/amp-website-builder/assets/images/images-800x1200.jpg"></a>
+
+### AMP Article
+
+<a href="https://mobirise.com/amp-website-builder/amp-article.html"><img src="https://mobirise.com/amp-website-builder/assets/images/article-1-800x1200.jpg"></a>
+
+### AMP Navigation
+
+<a href="https://mobirise.com/amp-website-builder/amp-navigation.html"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-navigation-800x1200.jpg"></a>
+
