@@ -40,3 +40,29 @@ The Accelerated Mobile Pages Project (AMP) is an online publishing format, origi
 
 <a href="https://mobirise.com/amp-website-builder/amp-navigation.html"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-navigation-800x1200.jpg"></a>
 
+## AMP Templates
+
+### AMP Basic Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-basic-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/amp-navigation-800x1200.jpg"></a>
+
+### AMP Portfolio Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-portfolio-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/portfolio-1000x1200.jpg"></a>
+
+### AMP eСommerce Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-ecommerce-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/ecommerce-1000x1200.jpg"></a>
+
+### AMP One Page Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-one-page-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/one-page-1000x1200.jpg"></a>
+
+### AMP Layout Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-layout-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/layout-1000x1200.jpg"></a>
+
+### AMP Landing page Template
+
+<a href="https://mobirise.com/amp-website-builder/amp-landing-page-template/"><img src="https://mobirise.com/amp-website-builder/assets/images/landing-page-1000x1200.jpg"></a>
+
