@@ -1,0 +1,24 @@
+@font-face {
+   font-family: 'PT Sans';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-one-page-template//fonts/PT Sans/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-one-page-template//fonts/PT Sans/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: italic;
+   font-weight: 400;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-one-page-template//fonts/PT Sans/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: italic;
+   font-weight: 700;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-one-page-template//fonts/PT Sans/700italic.ttf') format('truetype');
+}

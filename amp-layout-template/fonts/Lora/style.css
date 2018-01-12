@@ -1,0 +1,24 @@
+@font-face {
+   font-family: 'Lora';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-layout-template//fonts/Lora/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-layout-template//fonts/Lora/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: italic;
+   font-weight: 400;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-layout-template//fonts/Lora/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: italic;
+   font-weight: 700;
+   src: url('file:///C:/Users/Vera/Desktop/amp-website-builder/amp-layout-template//fonts/Lora/700italic.ttf') format('truetype');
+}
